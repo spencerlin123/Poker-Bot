@@ -1,2 +1,2 @@
-# Poker-Bot
-Creating a bot that wins Poker games!
+# reference-lecture-1-2024
+Sample Pokerbot
