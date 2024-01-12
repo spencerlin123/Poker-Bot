@@ -1,2 +1,1 @@
-# reference-lecture-1-2024
-Sample Pokerbot
+Building bots that play poker!!!
